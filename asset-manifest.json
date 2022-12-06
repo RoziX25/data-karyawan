@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-karyawan/static/css/main.8cec7f4b.css",
+    "main.js": "/data-karyawan/static/js/main.0bd89c92.js",
+    "index.html": "/data-karyawan/index.html",
+    "main.8cec7f4b.css.map": "/data-karyawan/static/css/main.8cec7f4b.css.map",
+    "main.0bd89c92.js.map": "/data-karyawan/static/js/main.0bd89c92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cec7f4b.css",
+    "static/js/main.0bd89c92.js"
+  ]
+}
